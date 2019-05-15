@@ -1,7 +1,7 @@
  /*
    Name:      WildThingSW_RCC
-   Revision:  B_2
-   Date:      April 5, 2019
+   Revision:  B_3
+   Date:      May 15, 2019
 
    Creator:   Shea Hunt. Adapted from code developed by Matthew Gale and Grant Kuhl
    Company:   Rehabilitation Centre for Children, Winnipeg MB, Canada
